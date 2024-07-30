@@ -1,6 +1,3 @@
-Here's the updated README file description for your Django project:
-
-```markdown
 # Web Navigation Project
 
 ## Overview
@@ -24,7 +21,11 @@ To set up the project locally:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/your-username/web-navigation-project.git
-   ```
+
+
+## Installation and Setup
+To set up the project locally:
+
 2. **Navigate to the Project Directory**:
    ```bash
    cd web-navigation-project
