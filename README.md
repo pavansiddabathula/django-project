@@ -71,4 +71,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any questions or suggestions, please contact [Pavan Kumar Siddabathula](mailto:pavansiddabathula@gmail.com).
 ```
 
-This README is tailored for a Django project, including installation steps specific to Django and Python.
+
