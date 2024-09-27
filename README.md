@@ -9,7 +9,7 @@ This project is a web application developed using Django framework and Python. I
 - **Login Page**: Enables registered users to log in with their credentials.
 - **Logout Page**: Allows users to log out and redirects them to the login page.
 
-## Technologies Used
+## Technologies Used 
 - **Django**: Web framework for building the application.
 - **Python**: Programming language used for backend logic.
 - **HTML**: Structure and content of the web pages.
